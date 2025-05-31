@@ -2,13 +2,23 @@
 
 ###
 
-<p align="left">[EN] Although my main goal is to build a career in cybersecurity, I'm currently exploring various technologies —mostly through my university studies— and taking every opportunity to approach them from a perspective that adds value to my growth in this field.<br><br>In this repository, you'll find all my projects, both personal and academic, where I always try to apply my own perspective and style, aiming to learn and grow with each experience.</p>
+<!-- SOBRE MÍ -->
+<h3 align="left">🧠 About Me / Sobre mí</h3>
+
+<p align="left">
+  [EN] Although my main goal is to build a career in cybersecurity, I'm currently exploring various technologies —mostly through my university studies— and taking every opportunity to approach them from a perspective that adds value to my growth in this field.<br><br>
+  In this repository, you'll find all my projects, both personal and academic, where I always try to apply my own perspective and style, aiming to learn and grow with each experience.
+</p>
+
+<p align="left">
+  [ESP] Aunque mi meta principal es desarrollarme en el área de ciberseguridad, actualmente me encuentro explorando diversas tecnologías —principalmente por la universidad—, aprovechando cada oportunidad para analizarlas desde una perspectiva que me aporte valor en este campo.<br><br>
+  En este repositorio encontrarás todos mis proyectos, tanto personales como universitarios, donde siempre intento aplicar mi propio enfoque y estilo, buscando aprender y crecer con cada experiencia.
+</p>
 
 ###
 
-<p align="left">[ESP] Aunque mi meta principal es desarrollarme en el área de ciberseguridad, actualmente me encuentro explorando diversas tecnologías —principalmente por mis estudios universitarios—, aprovechando cada oportunidad para analizarlas desde una perspectiva que me aporte valor en este campo.<br><br>En este repositorio encontrarás todos mis proyectos, tanto personales como universitarios, donde siempre intento aplicar mi propio enfoque y estilo, buscando aprender y crecer con cada experiencia.</p>
-
-###
+<!-- TECNOLOGÍAS -->
+<h3 align="left">💻 Technologies I Use / Tecnologías que utilizo</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -50,6 +60,21 @@
 
 ###
 
+
+<img align="right" height="300" src="https://media1.tenor.com/m/PuQpMLM0PwwAAAAd/cat-work-in-progress.gif"  />
+
+###
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Venjyy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+
+<h3 align="left">📬 Contact me/ Contáctame</h3>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/benjamin-flores-aa59112b5/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -61,5 +86,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
