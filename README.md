@@ -50,16 +50,6 @@
 
 ###
 
-<img align="right" height="300" src="https://media1.tenor.com/m/PuQpMLM0PwwAAAAd/cat-work-in-progress.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Venjyy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 
 <img align="right" height="300" src="https://media1.tenor.com/m/PuQpMLM0PwwAAAAd/cat-work-in-progress.gif"  />
 
