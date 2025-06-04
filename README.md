@@ -20,7 +20,7 @@
 
 <p align="left">
   [EN] I'm currently looking to contribute to open source projects where I can learn, gain experience, and connect with other developers. If you're working on something and think I could help, feel free to reach out!<br><br>
-  [ESP] Actualmente estoy buscando colaborar en proyectos de código abierto donde pueda aprender, ganar experiencia y conectar con otros desarrolladores. Si estás trabajando en algo y crees que puedo aportar, ¡no dudes en contactarme!
+  [ESP] Actualmente estoy buscando colaborar en proyectos Open Source donde pueda aprender, ganar experiencia y conectar con otros desarrolladores. Si estás trabajando en algo y crees que puedo aportar, ¡no dudes en contactarme!
 </p>
 
 
