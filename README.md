@@ -2,7 +2,7 @@
 
 ###
 
-<!-- SOBRE MÍ -->
+###  <!-- SOBRE MÍ -->
 <h3 align="left">🧠 About Me / Sobre mí</h3>
 
 <p align="left">
@@ -15,6 +15,13 @@
   En este repositorio encontrarás todos mis proyectos, tanto personales como universitarios, donde siempre intento aplicar mi propio enfoque y estilo, buscando aprender y crecer con cada experiencia.
 </p>
 
+### <!-- COLABORACIÓN -->
+<h3 align="left">🤝 Open to Collaborate / Abierto a Colaborar</h3>
+
+<p align="left">
+  [EN] I'm currently looking to contribute to open source projects where I can learn, gain experience, and connect with other developers. If you're working on something and think I could help, feel free to reach out!<br><br>
+  [ESP] Actualmente estoy buscando colaborar en proyectos de código abierto donde pueda aprender, ganar experiencia y conectar con otros desarrolladores. Si estás trabajando en algo y crees que puedo aportar, ¡no dudes en contactarme!
+</p>
 ###
 
 <!-- TECNOLOGÍAS -->
