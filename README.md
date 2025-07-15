@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Venjy, a student from Chile on a journey toward a career in cybersecurity.</h2>
+<h2 align="left">Hi 👋! I'm Venjy, a Full Stack Developer from Chile on a journey toward a career in cybersecurity.</h2>
 
 ###
 
