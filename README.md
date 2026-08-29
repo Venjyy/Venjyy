@@ -15,14 +15,6 @@
   En este repositorio encontrarás todos mis proyectos, tanto personales como universitarios, donde siempre intento aplicar mi propio enfoque y estilo, buscando aprender y crecer con cada experiencia.
 </p>
 
-### <!-- COLABORACIÓN -->
-<h3 align="left">🤝 Open to Collaborate / Abierto a Colaborar</h3>
-
-<p align="left">
-  [EN] I'm currently looking to contribute to open source projects where I can learn, gain experience, and connect with other developers. If you're working on something and think I could help, feel free to reach out!<br><br>
-  [ESP] Actualmente estoy buscando colaborar en proyectos Open Source donde pueda aprender, ganar experiencia y conectar con otros desarrolladores. Si estás trabajando en algo y crees que puedo aportar, ¡no dudes en contactarme!
-</p>
-
 
 <!-- TECNOLOGÍAS -->
 <h3 align="left">💻 Technologies I Use / Tecnologías que utilizo</h3>
@@ -75,8 +67,5 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/benjamin-flores-aa59112b5/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/elcodigobinario/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
