@@ -76,9 +76,9 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" height="40" alt="PowerShell" title="PowerShell" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.png" height="40" alt="Wireshark" title="Wireshark" />
+  <img src="https://www.svgrepo.com/show/377840/wireshark.svg" height="40" alt="Wireshark" title="Wireshark" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Nmap_icon.png" height="40" alt="Nmap" title="Nmap" />
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" alt="Nmap" title="Nmap" />
 </div>
 
 <br>
