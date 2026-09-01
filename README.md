@@ -70,15 +70,15 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kalilinux" height="40" alt="Kali Linux" title="Kali Linux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" alt="Kali Linux" title="Kali Linux" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash" title="Bash" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/powershell" height="40" alt="PowerShell" title="PowerShell" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" height="40" alt="PowerShell" title="PowerShell" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/wireshark" height="40" alt="Wireshark" title="Wireshark" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.png" height="40" alt="Wireshark" title="Wireshark" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nmap" height="40" alt="Nmap" title="Nmap" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Nmap_icon.png" height="40" alt="Nmap" title="Nmap" />
 </div>
 
 <br>
